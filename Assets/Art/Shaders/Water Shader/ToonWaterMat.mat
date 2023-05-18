@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ToonWaterMat
+  m_Shader: {fileID: 4800000, guid: 71c92aaa12852c44e841d205025e0835, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: 61a6d019b06399947b17a788ca7dd6e4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample1:
+        m_Texture: {fileID: 2800000, guid: 5fbc25f44ce4c5443918546cfd24863a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CausticQuantity: 0.622
+    - _CausticQuantity1: 0
+    - _CausticTiling: 2.9
+    - _CausticTiling1: 1
+    - _CausticTiling2: 6.33
+    - _CausticTime: 0.02
+    - _CausticTime1: 0.1
+    - _CausticTime2: -0.26
+    - _FadeDistance: 0.284
+    - _Float0: 0.505
+    - _Float1: 0.73
+    - _Float2: 2.9
+    - _Float3: 0.02
+    - _FoamTiling: 0.87
+    - _ShoreWidth: 0.976
+    - _ShoreWidth1: 0
+    - _ShoreWidth2: 0.266
+    - _ToonQuantity: 0.29
+    - _WavesLenght: 0.463
+    - __dirty: 0
+    m_Colors:
+    - _Color0: {r: 1, g: 1, b: 1, a: 0}
+    - _CusticColor: {r: 1, g: 1, b: 1, a: 0}
+    - _FoamSpeedAndDirection: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - _ShoreColor: {r: 1, g: 1, b: 1, a: 0}
+    - _WaterColor: {r: 0, g: 0.5551247, b: 0.7924528, a: 1}
+  m_BuildTextureStacks: []

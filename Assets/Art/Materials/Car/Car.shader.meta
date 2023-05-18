@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fce292f3b1c01944c8832fd23aaadc97
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Car_lambert3_Normal: {fileID: 2800000, guid: 2c218283f95769040904b7310e212147, type: 3}
+  - _Car_lambert3_BaseColor: {fileID: 2800000, guid: ab994f234b309104491cb016636db6f2, type: 3}
+  - _Car_lambert3_Emissive: {fileID: 2800000, guid: ffeaa475826f94f4498c5d6ef3e3fea1, type: 3}
+  - _Car_lambert3_Metallic: {fileID: 2800000, guid: 0e193421efcc4e74d884a7284cda2c9f, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

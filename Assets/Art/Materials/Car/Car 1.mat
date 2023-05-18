@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Car 1
+  m_Shader: {fileID: 4800000, guid: fce292f3b1c01944c8832fd23aaadc97, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Car_lambert3_BaseColor:
+        m_Texture: {fileID: 2800000, guid: ab994f234b309104491cb016636db6f2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Car_lambert3_Emissive:
+        m_Texture: {fileID: 2800000, guid: ffeaa475826f94f4498c5d6ef3e3fea1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Car_lambert3_Metallic:
+        m_Texture: {fileID: 2800000, guid: 0e193421efcc4e74d884a7284cda2c9f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Car_lambert3_Normal:
+        m_Texture: {fileID: 2800000, guid: 2c218283f95769040904b7310e212147, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - __dirty: 0
+    m_Colors:
+    - _Car: {r: 1, g: 1, b: 1, a: 0}
+    - _Color1: {r: 1, g: 0.9632398, b: 0, a: 0}
+    - _Windows: {r: 0.45256317, g: 0.7538981, b: 0.8490566, a: 0}
+  m_BuildTextureStacks: []
